@@ -1,0 +1,18 @@
+name: Включить Pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Включить GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
