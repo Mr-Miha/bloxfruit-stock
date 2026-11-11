@@ -158,7 +158,8 @@ function ago(ts){
 }
 
 function showUpdated(data){
-  const stale = Date.now()/1000 - data.updated > 1800;
+  // сток меняется раз в 4 часа, поэтому тревожно только если данных нет дольше 5 часов
+  const stale = Date.now()/1000 - data.updated > 5*3600;
   elUpdated.className = "sub" + (stale ? " warn" : "");
   elUpdated.textContent = (stale ? "⚠ данные могут быть старыми · " : "") +
     "обновлено " + ago(data.updated) + " · " +
