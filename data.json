@@ -1,5 +1,5 @@
 {
-  "updated": 1794501768,
+  "updated": 1794505157,
   "regular": [
     {
       "name": "Rocket",
@@ -10,20 +10,12 @@
       "price": 7500
     },
     {
-      "name": "Blade",
-      "price": 30000
+      "name": "Lightning",
+      "price": 2100000
     },
     {
-      "name": "Spring",
-      "price": 60000
-    },
-    {
-      "name": "Ice",
-      "price": 350000
-    },
-    {
-      "name": "Rubber",
-      "price": 750000
+      "name": "Pain",
+      "price": 2300000
     }
   ],
   "mirage": [
@@ -38,26 +30,6 @@
     {
       "name": "Blade",
       "price": 30000
-    },
-    {
-      "name": "Flame",
-      "price": 250000
-    },
-    {
-      "name": "Sand",
-      "price": 420000
-    },
-    {
-      "name": "Quake",
-      "price": 1000000
-    },
-    {
-      "name": "Sound",
-      "price": 1700000
-    },
-    {
-      "name": "Mammoth",
-      "price": 2700000
     }
   ]
 }
