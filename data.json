@@ -1,5 +1,5 @@
 {
-  "updated": 1794593383,
+  "updated": 1794597015,
   "regular": [
     {
       "name": "Rocket",
@@ -36,20 +36,20 @@
       "price": 80000
     },
     {
-      "name": "Sand",
-      "price": 420000
+      "name": "Dark",
+      "price": 500000
     },
     {
-      "name": "Diamond",
-      "price": 600000
+      "name": "Eagle",
+      "price": 550000
     },
     {
-      "name": "Light",
-      "price": 650000
+      "name": "Magma",
+      "price": 960000
     },
     {
-      "name": "Rubber",
-      "price": 750000
+      "name": "Love",
+      "price": 1300000
     }
   ]
 }
