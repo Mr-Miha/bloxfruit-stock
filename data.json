@@ -1,36 +1,6 @@
 {
-  "updated": 1794615096,
+  "updated": 1794619688,
   "regular": [
-    {
-      "name": "Rocket",
-      "price": 5000
-    },
-    {
-      "name": "Spin",
-      "price": 7500
-    },
-    {
-      "name": "Spring",
-      "price": 60000
-    },
-    {
-      "name": "Smoke",
-      "price": 100000
-    },
-    {
-      "name": "Light",
-      "price": 650000
-    },
-    {
-      "name": "Quake",
-      "price": 1000000
-    },
-    {
-      "name": "Lightning",
-      "price": 2100000
-    }
-  ],
-  "mirage": [
     {
       "name": "Rocket",
       "price": 5000
@@ -44,24 +14,50 @@
       "price": 30000
     },
     {
-      "name": "Spring",
-      "price": 60000
-    },
-    {
       "name": "Ice",
       "price": 350000
     },
     {
-      "name": "Dark",
-      "price": 500000
+      "name": "Sand",
+      "price": 420000
     },
     {
-      "name": "Diamond",
-      "price": 600000
+      "name": "Light",
+      "price": 650000
     },
     {
-      "name": "Gravity",
-      "price": 2500000
+      "name": "Gas",
+      "price": 3200000
+    }
+  ],
+  "mirage": [
+    {
+      "name": "Rocket",
+      "price": 5000
+    },
+    {
+      "name": "Spin",
+      "price": 7500
+    },
+    {
+      "name": "Bomb",
+      "price": 80000
+    },
+    {
+      "name": "Smoke",
+      "price": 100000
+    },
+    {
+      "name": "Spike",
+      "price": 180000
+    },
+    {
+      "name": "Rubber",
+      "price": 750000
+    },
+    {
+      "name": "Gas",
+      "price": 3200000
     }
   ]
 }
