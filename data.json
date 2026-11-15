@@ -1,28 +1,6 @@
 {
-  "updated": 1794717692,
+  "updated": 1794721084,
   "regular": [
-    {
-      "name": "Rocket",
-      "price": 5000
-    },
-    {
-      "name": "Spin",
-      "price": 7500
-    },
-    {
-      "name": "Blade",
-      "price": 30000
-    },
-    {
-      "name": "Spring",
-      "price": 60000
-    },
-    {
-      "name": "Flame",
-      "price": 250000
-    }
-  ],
-  "mirage": [
     {
       "name": "Rocket",
       "price": 5000
@@ -36,20 +14,58 @@
       "price": 100000
     },
     {
-      "name": "Ice",
-      "price": 350000
+      "name": "Flame",
+      "price": 250000
+    },
+    {
+      "name": "Dark",
+      "price": 500000
+    },
+    {
+      "name": "Diamond",
+      "price": 600000
     },
     {
       "name": "Light",
       "price": 650000
     },
     {
-      "name": "Creation",
-      "price": 1400000
+      "name": "Control",
+      "price": 9000000
+    }
+  ],
+  "mirage": [
+    {
+      "name": "Rocket",
+      "price": 5000
     },
     {
-      "name": "Spider",
-      "price": 1500000
+      "name": "Spin",
+      "price": 7500
+    },
+    {
+      "name": "Spring",
+      "price": 60000
+    },
+    {
+      "name": "Bomb",
+      "price": 80000
+    },
+    {
+      "name": "Flame",
+      "price": 250000
+    },
+    {
+      "name": "Sand",
+      "price": 420000
+    },
+    {
+      "name": "Diamond",
+      "price": 600000
+    },
+    {
+      "name": "Shadow",
+      "price": 2900000
     }
   ]
 }
